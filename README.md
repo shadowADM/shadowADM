@@ -1,9 +1,9 @@
-⚡ShadowTX#0
+# ⚡ShadowTX#001
 
 Construindo ecossistemas digitais, produtos delegáveis e automações.
 
-Sou o **Shadow** — empreendedor digital focado em **SMM, automação, comunidades, bots, pagamentos, SEO e produtos escaláveis**.  
-Aqui no GitHub você vai encontrar projetos, usados em produção, nada de “tutorial de curso” (Só os que eu puder e tiver saco de postar aqui).
+Sou o **Shadow** Investidor de Bitcoio e vagabundo digital, já fiz projetos com **SMM, automação, comunidades, bots, pagamentos, SEO e produtos escaláveis**.  
+Aqui no GitHub cê encontra projetos, usados em produção, nada de “tutorial de curso” (Só os que eu puder e tiver saco de postar aqui).
 
 ---
 
@@ -21,8 +21,8 @@ Aqui no GitHub você vai encontrar projetos, usados em produção, nada de “tu
 
 ## 🚀 Ecossistema atual
 
-### 🔹 Conexão SMM
-Hub de aprendizado + comunidade gratuita focada em SMM, dropservice e revenda. (Braço educacional)
+### 🔹 Conexão SMM (Braço educacional)
+Hub de aprendizado + comunidade gratuita focada em SMM, dropservice e revenda.
 
 - PDFs estratégicos
 - Biblioteca gratuita
@@ -139,4 +139,4 @@ Se você chegou aqui por curiosidade ou aprendizado:
 
 Esse GitHub é parte de um ecossistema maior, não é vitrine.
 ---
-👁️
+tenho 16 anos
